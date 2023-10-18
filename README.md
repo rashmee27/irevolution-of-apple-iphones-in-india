@@ -1,7 +1,7 @@
 # irevolution-of-apple-iphones-in-india
-DASHBOARD - https://prod-apnortheast-a.online.tableau.com/t/rashmeeworkspace/views/RASHMEE/Dashboard2
+DASHBOARD - https://public.tableau.com/views/dashboard_16976221726450/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-STORY - https://prod-apnortheast-a.online.tableau.com/t/rashmeeworkspace/views/RASHMEE/Story1/c12aa9b0-0ae5-4422-8a83-7220ec8f247d/e766c2fc-1109-49f1-8d43-85735cb2ee43
+STORY - https://public.tableau.com/views/Story_16976223988290/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 EMPATHY MAP - https://github.com/rashmee27/brainstorm-idea/blob/main/rashmee%20empathy.pdf
 
